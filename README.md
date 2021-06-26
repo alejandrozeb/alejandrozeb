@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 
 #### Si alguna vez tuve el gusto de ¡enseñarte! el repositorio de la clase esta resaltado si no puedes buscar en la parte de repositories te puedo asegurar que lo encontraras facilmente ya que tendra un nombre bastante claro.
 
-    Además, me gusta bastante la arquitectura de software voy implementando diferentes arquitecturas  
-    en proyectos que pienso que pueden aportar a la sociedad  
-    por ahora estoy trabajando en:
-    Arquitectura n capas con algunas capas transversales en Asistente de Ansiedad Estres y Depresion.
+  *Además, me gusta bastante la arquitectura de software voy implementando diferentes arquitecturas  
+  en proyectos que pienso que pueden aportar a la sociedad  
+  por ahora estoy trabajando en:
+  Arquitectura n capas con algunas capas transversales en Asistente de Ansiedad Estres y Depresion.*
      
 
     
