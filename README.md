@@ -1,5 +1,5 @@
 
-  # ¡Hola! Soy ***backend developer*** aquí puedes encontrar todos los apuntes de cursos que realicé hasta el momento que lees esto tambien puedes navegar entre commits e ir viendo como va evolucionando mis proyecto.
+  # ¡Hola! Soy ***backend developer*** aquí puedes encontrar todos los apuntes de cursos que realicé hasta el momento que lees esto tambien puedes navegar entre commits e ir viendo como va evolucionando mis proyectos.
  
 <!--
 **alejandrozeb/alejandrozeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
