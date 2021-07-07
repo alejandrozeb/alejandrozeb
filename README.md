@@ -11,8 +11,9 @@ Here are some ideas to get you started:
   
   
   ---
+
   <!-- skills -->
-  Estas son la herramientas con las que estoy familiarizado:
+  <!-- Estas son la herramientas con las que estoy familiarizado:
     
 #### * Lenguajes de programación: SQL, Php, Javascript y python.
 #### * Frameworks back-end: Codeigniter, Express y Laravel.
@@ -26,7 +27,7 @@ Here are some ideas to get you started:
   *Además, me gusta bastante la arquitectura de software voy implementando diferentes arquitecturas  
   en proyectos que pienso que pueden aportar a la sociedad  
   por ahora estoy trabajando en:
-  Arquitectura n capas con algunas capas transversales en Asistente de Ansiedad Estres y Depresion.*
+  Arquitectura n capas con algunas capas transversales en Asistente de Ansiedad Estres y Depresion.* -->
      
 
     
