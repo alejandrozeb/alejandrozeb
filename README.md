@@ -12,6 +12,17 @@ Here are some ideas to get you started:
   
   
   ---
+  
+  ---
+
+   Ultimo Proyecto Terminado:
+    https://listado-personas-74bcf.web.app/login
+    
+    credenciales para probar:
+    ale03zeballos@gmail.com
+    123456
+
+    Crud Basico con Angular 12 y Firebase.
 
   <!-- skills -->
   <!-- Estas son la herramientas con las que estoy familiarizado:
